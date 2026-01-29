@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IVD 配方专家",
+  "description": "体外诊断（IVD）侧向层析研发专家系统。智能分析层析问题，并生成一组最优的针对NC膜、结合垫和样本垫的优化配方。",
+  "requestFramePermissions": []
+}
